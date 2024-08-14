@@ -1,0 +1,7 @@
+:root {
+	--primary-color: #64ce5c;
+}
+
+.bx--btn--primary {
+	background-color: var(--primary-color);
+}
